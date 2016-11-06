@@ -899,7 +899,11 @@ return
 
 #If
 
+PrintScreen::Home
+Ins::End
 
+>+Up::Send {PgUp}
+>+Down::Send {PgDn}
 
 
 GuiClose:
